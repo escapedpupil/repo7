@@ -12,4 +12,5 @@ public class FirstClass {
     private static void test3(){}
     private static void test4(){}
     private static void test5(){}
+    private static void test6(){}
 }
