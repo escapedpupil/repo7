@@ -8,4 +8,5 @@ public class FirstClass {
         System.out.println("Git Demo1");
     }
     private static void test(){}
+    private static void test3(){}
 }
